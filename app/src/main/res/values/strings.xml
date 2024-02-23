@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BmiViewModel</string>
+    <string name="BMI">Body mass index</string>
+    <string name="height">Height (m)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="Bmi">"Body mass index is "</string>
+</resources>
